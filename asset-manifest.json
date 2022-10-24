@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://sdepaula97.github.io/csb-hwvw46/static/css/main.4e84de7b.chunk.css",
+    "main.js": "https://sdepaula97.github.io/csb-hwvw46/static/js/main.5cb6a31c.chunk.js",
+    "main.js.map": "https://sdepaula97.github.io/csb-hwvw46/static/js/main.5cb6a31c.chunk.js.map",
+    "runtime-main.js": "https://sdepaula97.github.io/csb-hwvw46/static/js/runtime-main.865b702c.js",
+    "runtime-main.js.map": "https://sdepaula97.github.io/csb-hwvw46/static/js/runtime-main.865b702c.js.map",
+    "static/js/2.3c0d2587.chunk.js": "https://sdepaula97.github.io/csb-hwvw46/static/js/2.3c0d2587.chunk.js",
+    "static/js/2.3c0d2587.chunk.js.map": "https://sdepaula97.github.io/csb-hwvw46/static/js/2.3c0d2587.chunk.js.map",
+    "index.html": "https://sdepaula97.github.io/csb-hwvw46/index.html",
+    "precache-manifest.a186b8aa030e418ced55ec52cd28158e.js": "https://sdepaula97.github.io/csb-hwvw46/precache-manifest.a186b8aa030e418ced55ec52cd28158e.js",
+    "service-worker.js": "https://sdepaula97.github.io/csb-hwvw46/service-worker.js",
+    "static/css/main.4e84de7b.chunk.css.map": "https://sdepaula97.github.io/csb-hwvw46/static/css/main.4e84de7b.chunk.css.map",
+    "static/js/2.3c0d2587.chunk.js.LICENSE.txt": "https://sdepaula97.github.io/csb-hwvw46/static/js/2.3c0d2587.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.865b702c.js",
+    "static/js/2.3c0d2587.chunk.js",
+    "static/css/main.4e84de7b.chunk.css",
+    "static/js/main.5cb6a31c.chunk.js"
+  ]
+}
